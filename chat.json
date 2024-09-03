@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button with text 'Nine'\", \"checked\": true}, {\"feature\": \"Add a confirmation dialog for button clicks\", \"checked\": false}, {\"feature\": \"Change button color on hover\", \"checked\": false}, {\"feature\": \"Add a tooltip for button explaining its function\", \"checked\": false}, {\"feature\": \"Include an icon next to the button text\", \"checked\": false}], \"input_token_count\": 265, \"output_token_count\": 96, \"time_taken\": \"0:00:01.110160\"}",
+        "message_id": "guest03092024093715",
+        "timestamp": "03092024093810",
+        "component_file_name": "simple_cta_component_1725356123",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the button labeled 'Nine' to be positioned within the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What action should occur when the 'Nine' button is pressed?\", \"option1\": \"Navigate to a different screen\", \"option2\": \"Display a popup message\"}], \"input_token_count\": 311, \"output_token_count\": 95, \"time_taken\": \"0:00:01.236470\"}",
         "message_id": "guest03092024093715",
