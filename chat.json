@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"add a button with the text 'Nine'\", \"checked\": true}, {\"feature\": \"add a button with the text 'Great'\", \"checked\": true}, {\"feature\": \"add a button with the text 'Awesome'\", \"checked\": false}, {\"feature\": \"add a dropdown for selecting account types\", \"checked\": false}, {\"feature\": \"implement a dark/light mode toggle\", \"checked\": false}, {\"feature\": \"create a summary section for recent transactions\", \"checked\": false}], \"input_token_count\": 286, \"output_token_count\": 117, \"time_taken\": \"0:00:01.530159\"}",
+        "message_id": "guest03092024093832",
+        "timestamp": "03092024093910",
+        "component_file_name": "simple_cta_component_1725356123",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the button with the text 'Great' to be positioned within the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What color scheme do you prefer for the button with the text 'Great'?\", \"option1\": \"Bright color for visibility\", \"option2\": \"Muted color for a subtle look\"}], \"input_token_count\": 332, \"output_token_count\": 102, \"time_taken\": \"0:00:01.495973\"}",
         "message_id": "guest03092024093832",
