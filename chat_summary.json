@@ -9,6 +9,12 @@
     },
     {
         "role": "chat_acknowledge",
+        "content": "Sure, I'm adding a button with the text 'Nine'.",
+        "timestamp": "03092024093716",
+        "message_id": "guest03092024093715"
+    },
+    {
+        "role": "chat_acknowledge",
         "content": "Okay, I'm adding a button with the text Nine.",
         "timestamp": "03092024093635",
         "message_id": "guest03092024093634"
