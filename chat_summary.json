@@ -20,6 +20,12 @@
         "message_id": "guest03092024093715"
     },
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the button with text 'Nine' to be positioned within the app?\", \"option1\": \"At the top of the page\", \"option2\": \"At the bottom of the page\"}, {\"question 2\": \"Should the button have any specific style or color to match the app's design?\", \"option1\": \"Yes, I'd like it to be blue\", \"option2\": \"No, default style is fine\"}], \"input_token_count\": 289, \"output_token_count\": 104, \"time_taken\": \"0:00:00.976201\"}",
+        "timestamp": "03092024093707",
+        "message_id": "guest03092024093634"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'm adding a button with the text Nine.",
         "timestamp": "03092024093635",
