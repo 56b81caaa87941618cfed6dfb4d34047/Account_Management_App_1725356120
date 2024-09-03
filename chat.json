@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "user",
+        "content": "add a button with text Nine",
+        "message_id": "guest03092024093715",
+        "timestamp": "03092024093716",
+        "component_file_name": "simple_cta_component_1725356123",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I'm adding a button with the text 'Nine'.",
         "message_id": "guest03092024093715",
